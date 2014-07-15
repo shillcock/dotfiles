@@ -1,0 +1,7 @@
+[user]
+  name = Scott Shillcock
+  email = scott@shillcock.net
+[alias]
+  l = log --pretty='%Cred%h%Creset %s %Cgreen(%cr) %C(bold blue)%an%Creset'
+  st = status -sb
+  hist = log --all --graph --pretty='[%C(cyan)%h%Creset]%C(bold cyan)%d%Creset %s'
